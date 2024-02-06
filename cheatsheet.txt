@@ -1,0 +1,14 @@
+# Step 1
+
+Why would you want to write you code in a object-oriented programming language?
+There are many scenario's where object-oriented programming is valuable.
+For example, when REUSABILITY is important; when the same functionality needs to be available in different places
+(for example, code that outputs something as a JSON object)
+Also, SEPARATION OF RESPONSIBILITY might be a reason to use object-oriented code.
+Every class brings its own functionality.
+When different objects need to be handled by a single list, object-oriented code can be useful too.
+
+What's the difference between a class and an object?
+A class exists precisely 1, and only 1, time in a program.
+The class can be used to create 0, 1 or many objects.
+Each object has the same variables and functions

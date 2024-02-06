@@ -9,5 +9,4 @@ class Charmander:
         self.weakness = "water"
 
     def battlecry(self):
-        for x in range(10):
-            print(self.nickname.upper() + "!!!")
+        print(self.nickname.upper() + "!!!")
